@@ -1,28 +1,71 @@
-# Hi, I'm Deepak Raja 👋
+# Deepak Raja
 
-**Full Stack Product Engineer** based in Chennai, India.
+Full Stack Product Engineer based in Chennai, India.
 
-I build SaaS dashboards, admin panels, and AI-powered web apps using modern web technologies.
-Currently building an AI Recruitment Dashboard with Next.js, PostgreSQL, and OpenAI.
+I build SaaS dashboards, admin panels, AI-powered products, and modern full-stack web applications with a strong focus on product thinking and execution.
+
+## About me
+
+- Building full-stack apps with React, Next.js, TypeScript, Node.js, and database-backed APIs
+- Interested in AI product development, developer tooling, and startup-style MVP execution
+- Comfortable across frontend architecture, backend APIs, deployment, and product iteration
 
 ## Tech stack
 
-**Frontend** — React · Next.js · TypeScript · Tailwind CSS · Vite  
-**Backend** — Node.js · Express · PostgreSQL · MongoDB · Prisma  
-**AI / APIs** — OpenAI API · LangChain · REST APIs  
-**DevOps** — Docker · Git · Vercel · AWS EC2  
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Vite
 
-## What I'm working on
+### Backend
+- Node.js
+- Express
+- PostgreSQL
+- MongoDB
+- Prisma
 
-- AI Recruitment Dashboard — resume scoring, candidate tracking, admin panel
-- Available for freelance — SaaS MVPs, dashboards, API integrations
+### AI and APIs
+- OpenAI API
+- LangChain
+- REST API integration
 
-## Hackathon wins
+### DevOps and tooling
+- Docker
+- Git
+- Vercel
+- AWS EC2
+
+## Featured work
+
+- `Recruit Crew` - recruitment product with candidate, organization, admin, and AI interview flows
+- `Recruit Crew Backend AI` - Flask-based AI evaluation and question generation service
+- `Move Compiler` - browser IDE for TS-like to Move smart contract workflows
+- `AstroPortfolio` - portfolio, blog, admin, and booking platform
+- `OKX DEX Swap` - wallet-connected token swap interface with provider comparison
+
+## Current focus
+
+- AI recruitment workflows
+- product-grade dashboards and admin systems
+- developer tools and Web3 experimentation
+
+## Achievements
 
 - ETHGlobal Bangkok 2024
-- ETHGlobal Taipei 2024  
-- Amrita Block Camp — 1st place
+- ETHGlobal Taipei 2024
+- Amrita Block Camp - 1st place
 
-## Let's connect
+## Contact
 
-[Portfolio](https://deepakraja-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/deepak-raja-9149a0249) · 12306deepakraja@gmail.com
+- Portfolio: https://deepakraja-portfolio.vercel.app
+- LinkedIn: https://www.linkedin.com/in/deepak-raja-9149a0249
+- Email: 12306deepakraja@gmail.com
+
+## Open to
+
+- Freelance product engineering work
+- SaaS MVP builds
+- dashboard and admin panel development
+- API integrations and AI-powered web apps
