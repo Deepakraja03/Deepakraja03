@@ -41,9 +41,7 @@ I build SaaS dashboards, admin panels, AI-powered products, and modern full-stac
 
 - `Recruit Crew` - recruitment product with candidate, organization, admin, and AI interview flows
 - `Recruit Crew Backend AI` - Flask-based AI evaluation and question generation service
-- `Move Compiler` - browser IDE for TS-like to Move smart contract workflows
 - `AstroPortfolio` - portfolio, blog, admin, and booking platform
-- `OKX DEX Swap` - wallet-connected token swap interface with provider comparison
 
 ## Current focus
 
