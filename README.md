@@ -47,7 +47,7 @@ I build SaaS dashboards, admin panels, AI-powered products, and modern full-stac
 
 - AI recruitment workflows
 - product-grade dashboards and admin systems
-- developer tools and Web3 experimentation
+- building AI-powered SaaS MVPs and full-stack applications
 
 ## Achievements
 
