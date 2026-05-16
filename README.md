@@ -53,9 +53,16 @@ I build SaaS dashboards, admin panels, AI-powered products, and modern full-stac
 
 ## Achievements
 
-- ETHGlobal Bangkok 2024
+- ETHGlobal Bangkok 2024 — Won a bounty
 - ETHGlobal Taipei 2024
-- Amrita Block Camp - 1st place
+- ETHMumbai Hackathon — Won 1 bounty
+- Green Pill Hackathon — Won 2 bounties
+- Amrita Block Camp — 1st place
+- Ton Hackathon Hyderabad — Participated
+- Neo Hackathon Bangalore — Participated
+- Unfold Hackathon Bangalore — Participated
+- Hackverse Hackathon — Participated
+- Smart India Hackathon 2022 (Internal Round) — Participated
 
 ## Contact
 
